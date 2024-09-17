@@ -51,7 +51,7 @@ export default function Card(props) {
           <div className="center">
             <div className="techno login-details">
               <span>Login: <strong>test@pos.com</strong></span>
-              <span>Mdp: <strong>Test@1234</strong></span>
+              <span>Mdp:  <strong>Test@1234</strong></span>
             </div>
           </div>
         )}
