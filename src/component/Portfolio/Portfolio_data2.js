@@ -14,14 +14,14 @@ const Portfolio_data2 = [
     },
     {
       id: 2,
-      category: "Easyprice",
-      totalLike: "280",
-      title: "Gestion de budget",
-      image: "./image/easyprice.png",
-      description: "Mobile",
-      commentaire: "xamarinforms, exchangeApi",
-      adresseGithub : "https://github.com/NOA-FASHION/easyprice",
-      adresseWeb: "https://easyprices.fr/"
+      category: "Sport-trainning",
+      totalLike: "630",
+      title: "gestionnaire d'accès",
+      image: "./image/sport-trining.png",
+      description: "Web",
+      commentaire: "Symfony, html/css, Postgress, Php ",
+      adresseGithub : "https://github.com/NOA-FASHION/sport_training",
+      adresseWeb: "https://backend-strapi.online/sport-training/"
     },
     {
       id: 3,

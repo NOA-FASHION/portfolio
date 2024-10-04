@@ -13,14 +13,14 @@ const Portfolio_data1 = [
     },
     {
       id: 2,
-      category: "Sport-trainning",
-      totalLike: "630",
-      title: "gestionnaire d'accès",
-      image: "./image/sport-trining.png",
-      description: "Web",
-      commentaire: "Symfony, html/css, Postgress, Php ",
-      adresseGithub : "https://github.com/NOA-FASHION/sport_training",
-      adresseWeb: "https://backend-strapi.online/sport-training/"
+      category: "SiteEcommerceJeuxOlympique",
+      totalLike: "750",
+      title: "Site Ecommerce",
+      image: "./image/olympique.png",
+      description: "Web ",
+      commentaire: "Django, html/css, Python, React Js, Java Script,MVVM",
+      adresseGithub: "https://github.com/malmont/ecommerceolympique",
+      adresseWeb: "https://malmont.github.io/ecommerceolympique/",
     },
     {
       id: 3,

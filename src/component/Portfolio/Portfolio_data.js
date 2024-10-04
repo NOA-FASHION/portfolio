@@ -23,14 +23,14 @@ const Portfolio_data = [
   },
   {
     id: 3,
-    category: "SiteEcommerceJeuxOlympique",
+    category: "SiteEcommerce_ReactJS",
     totalLike: "750",
     title: "Site Ecommerce",
-    image: "./image/olympique.png",
+    image: "./image/EcommerceReact.png",
     description: "Web ",
-    commentaire: "Django, html/css, Python, React Js, Java Script,MVVM",
-    adresseGithub: "https://github.com/malmont/ecommerceolympique",
-    adresseWeb: "https://malmont.github.io/ecommerceolympique/",
+    commentaire: "html/css,Symfony, React Js, Java Script,MVVM",
+    adresseGithub : "https://github.com/malmont/ecommercereactsymfony",
+    adresseWeb: "https://malmont.github.io/ecommercereactsymfony"
   },
 ];
 export default Portfolio_data;

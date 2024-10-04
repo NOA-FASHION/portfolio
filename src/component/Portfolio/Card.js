@@ -47,7 +47,7 @@ export default function Card(props) {
           </div>
         </div>
 
-        {(props.category === 'Easymakemoney' || props.category === 'POSFlutter' )&& (
+        {(props.category === 'Easymakemoney' || props.category === 'POSFlutter' || props.category ==='SiteEcommerce_ReactJS')&& (
           <div className="center">
             <div className="techno login-details">
               <span>Login: <strong>test@pos.com</strong></span>
