@@ -2,7 +2,7 @@ const ResumeApi = [
  {
     id: 11,
     category: "experience",
-    year: "Consultant full stack LBM Conseil ",
+    year: "Consultant full stack Croix Bleue (2024)",
     title: "Développeur web et mobile",
     desc: "En charge de développer et de faire évoluer les sites web, les applications web et les interfaces mobiles de Croix Bleue assurance pour créer une expérience utilisateur unique et maximiser l’atteinte des objectifs d’affaire de l’entreprise",
     desc2:"",
@@ -10,7 +10,7 @@ const ResumeApi = [
   },{
     id: 10,
     category: "experience",
-    year: "Consultant .NET - Xamarin RANSTAD GROUP INC (2023) ",
+    year: "Consultant .NET - Mckesson GROUP INC (2023) ",
     title: "Développeur web et mobile",
     desc: "Développement et évolution d'une application mobile pour la gestion de la réception des marchandises pour la société pharmaceutique Mckesson.",
     desc2:"",

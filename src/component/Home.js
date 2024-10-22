@@ -78,7 +78,7 @@ export default function Home() {
                     <i className="fab fa-linkedin-in"></i>
                   </button>
             </a>
-            <a href="   https://drive.google.com/file/d/1iqbJ3_ZP889E8Q8KhxCElLYnf79zDJV0/view?usp=sharing">
+            <a href="   https://drive.google.com/file/d/1UooqUXM1ro7s-XqpIKN6BJ_Ac_X9rjrZ/view?usp=sharing">
             <button className="btn_shadow">
                     <i >CV</i>
                   </button>
