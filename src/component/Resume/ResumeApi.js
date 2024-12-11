@@ -1,10 +1,18 @@
 const ResumeApi = [
- {
+  {
+    id: 12,
+    category: "experience",
+    year: "Freelance (2024)",
+    title: "Développeur web et mobile",
+    desc: "Conception et développement de la suite  IIZIPRO, incluant un site e-commerce, des applications mobiles (e-commerce, point de vente, statistiques en temps réel) et des modèles personnalisables. Intégration d’outils d’analyse pour le suivi des ventes, des stocks et des projections financières..",
+    desc2:"",
+    rate: "",
+  },{
     id: 11,
     category: "experience",
     year: "Consultant full stack Croix Bleue (2024)",
     title: "Développeur web et mobile",
-    desc: "En charge de développer et de faire évoluer les sites web, les applications web et les interfaces mobiles de Croix Bleue assurance pour créer une expérience utilisateur unique et maximiser l’atteinte des objectifs d’affaire de l’entreprise",
+    desc: "Conception et développement d'une application mobile Flutter déployée sur Android, iOS et Web, permettant aux clients d’acheter ou de modifier leurs contrats d’assurance voyage. Mise en place d’une architecture robuste pour les tests automatisés (unitaires, intégration, fonctionnels) et des pipelines CI/CD L’équipe était responsable de l’ensemble du processus de développement (frontend, backend, intégration continue).",
     desc2:"",
     rate: "",
   },{
@@ -12,7 +20,7 @@ const ResumeApi = [
     category: "experience",
     year: "Consultant .NET - Mckesson GROUP INC (2023) ",
     title: "Développeur web et mobile",
-    desc: "Développement et évolution d'une application mobile pour la gestion de la réception des marchandises pour la société pharmaceutique Mckesson.",
+    desc: "Développement et évolution de la partie frontend d'une application mobile dédiée à la gestion de la réception des marchandises pour McKesson.  Conception d’interfaces utilisateurs intuitives et performantes en utilisant Xamarin.Forms et le modèle MVVM. Optimisation de l’expérience utilisateur et intégrat",
     desc2:"",
     rate: "",
   },{
