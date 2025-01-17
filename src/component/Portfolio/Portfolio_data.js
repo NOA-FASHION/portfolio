@@ -30,7 +30,7 @@ const Portfolio_data = [
     description: "Web ",
     commentaire: "html/css,Symfony, React Js, Java Script,MVVM",
     adresseGithub : "https://github.com/malmont/ecommercereactsymfony",
-    adresseWeb: "https://malmont.github.io/ecommercereactsymfony"
+    adresseWeb: "https://malmont.github.io/ecommercereactsymfony/#/"
   },
 ];
 export default Portfolio_data;
