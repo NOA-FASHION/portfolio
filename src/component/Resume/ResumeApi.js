@@ -1,10 +1,19 @@
 const ResumeApi = [
   {
+    id: 13,
+    category: "experience",
+    year: "Développeur full stack V2Vtechnologie (2025 - présent)",
+    title: "Développeur full stack",
+    desc: "Conception, développement et pilotage de solutions logicielles complexes dans des environnements full-stack (Symfony, React, Flutter) et multi-tenant.Expertise en architecture e-commerce, incluant l'intégration d'ERP (ex: GEM-SUITE) via API REST et webhooks pour une synchronisation bidirectionnelle des données (produits, clients, ventes).Spécialisé dans la refonte et la migration d'applications vers des architectures SaaS, avec une maîtrise de l'isolation des données par client (bases de données dédiées) et la gestion des connexions dynamiques.",
+    desc2:"",
+    rate: "",
+  },
+  {
     id: 12,
     category: "experience",
     year: "Freelance (2024)",
-    title: "Développeur web et mobile",
-    desc: "Conception et développement de la suite  IIZIPRO, incluant un site e-commerce, des applications mobiles (e-commerce, point de vente, statistiques en temps réel) et des modèles personnalisables. Intégration d’outils d’analyse pour le suivi des ventes, des stocks et des projections financières..",
+    title: "Concepteur, développeur principal et chef de projet",
+    desc: "Conception et développement complet d’une suite d’applications web et mobiles destinée aux commerçants et détaillants. Intégration de 5 modules interconnectés : IIZIMANAGER (gestion de stock, prévision des ventes), IIZICOM (site e-commerce personnalisable), IIZIMOBILE (application mobile synchronisée), IIZIRETAILS (point de vente physique), IIZIBACKEND (gestion centralisée et monitoring). Architecture fullstack (Flutter, Symfony API, base de données centralisée, JWT, CI/CD). Modèle SaaS multi-offre avec abonnements mensuels et installation personnalisée.",
     desc2:"",
     rate: "",
   },{
